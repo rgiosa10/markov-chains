@@ -2,7 +2,7 @@
 
 #### By Ruben Giosa
 
-#### This repo includes an exercise for my solution for a Markov Chain that uses a sonnet as input data, organize the data by the frequency with which one word follows any other, and then provide a predictive recommended word (using the sonnet) based a user inputted word from the sonnet.
+#### This repo includes an exercise for my solution to a Markov Chain that uses a sonnet as input data, organize the data by the frequency with which one word follows any other, and then provide a predictive recommended word (using the sonnet) based a user inputted word from the sonnet.
 
 <br>
 
@@ -41,7 +41,7 @@ To summarize:
 - The outer dictionary contains each word from the input text as a key, followed by an inner dictionary as a value
 - Each inner dictionary contains as keys the words that can follow each key in the outer dictionary, with the number of times they actually follow that word as the value
 
-In this challenge, we'll take some Shakespeare sonnets as our input data, organize the data by the frequency with which one word follows any other, and then provide a predictive recommended word (using the sonnet) based a user inputted word from the sonnet.
+In this challenge, it takes some Shakespeare sonnets as input data, organizes the data by the frequency with which one word follows any other, and then provide a predictive recommended word (using the sonnet) based a user inputted word from the sonnet.
 
 <br>
 
