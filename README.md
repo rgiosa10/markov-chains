@@ -2,7 +2,7 @@
 
 #### By Ruben Giosa
 
-#### This repo includes an exercise for my solution to a Markov Chain that uses a sonnet as input data, organize the data by the frequency with which one word follows any other, and then provide a predictive recommended word (using the sonnet) based a user inputted word from the sonnet.
+#### This repo includes an exercise for my solution to a Markov Chain that uses a sonnet as input data, organize the data by the frequency with which one word follows any other, and then use those frequencies to generate a new sonnet-sounding text.
 
 <br>
 
