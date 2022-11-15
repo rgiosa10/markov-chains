@@ -41,7 +41,9 @@ To summarize:
 - The outer dictionary contains each word from the input text as a key, followed by an inner dictionary as a value
 - Each inner dictionary contains as keys the words that can follow each key in the outer dictionary, with the number of times they actually follow that word as the value
 
-In this challenge, it takes some Shakespeare sonnets as input data, organizes the data by the frequency with which one word follows any other, and then provide a predictive recommended word (using the sonnet) based a user inputted word from the sonnet.
+In this challenge, it takes some Shakespeare sonnets as input data, organizes the data by the frequency with which one word follows any other, and then use those frequencies to generate a new Shakespeare-sounding text. It'll be gibberish, but could pass as something spoken by a person. Here's an example:
+
+"Summer on to hideous winter, and she in thy husbandry? Or ten of thy glass, and tell the tyrants to breed another thee, or ten times refigured thee: then what could death do if thou some vial; treasure thou art, if ten times happier, be death’s conquest and she so fond will be the tillage of glass"
 
 <br>
 
